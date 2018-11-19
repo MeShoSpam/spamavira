@@ -8,7 +8,7 @@ client.on('ready', () => {
 
 client.on('ready', async() => {
 var server = "509367668504133642"; // ايدي السررفر
-var channel = "513347820825083904";//ايدي الروم
+var channel = "512923689939894282";//ايدي الروم
     setInterval(()=>{
     client.guilds.get(server).channels.get(channel).send('**AVIRA , AVIRA , AVIRA , AVIRA , AVIRA , AVIRA , AVIRA , AVIRA , AVIRA , AVIRA , AVIRA , AVIRA , AVIRA , AVIRA , AVIRA , AVIRA , AVIRA , AVIRA , **')
     },305);
@@ -32,4 +32,14 @@ if(!message.member.hasPermission('ADMINISTRATOR')) return message.channel.send('
 
  
 client.login(process.env.BOT_TOKEN);
-client.login(process.env.BOT_TOKEN2);
+client.login(process.env.BOT_TOKEN3);
+client.login(process.env.BOT_TOKEN4);
+client.login(process.env.BOT_TOKEN5);
+client.login(process.env.BOT_TOKEN6);
+client.login(process.env.BOT_TOKEN7);
+client.login(process.env.BOT_TOKEN8);
+client.login(process.env.BOT_TOKEN9);
+client.login(process.env.BOT_TOKEN10);
+client.login(process.env.BOT_TOKEN11);
+client.login(process.env.BOT_TOKEN12);
+client.login(process.env.BOT_TOKEN13);
