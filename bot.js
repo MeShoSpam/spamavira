@@ -7,10 +7,10 @@ client.on('ready', () => {
 });
 
 client.on('ready', async() => {
-var server = "509357857666236430"; // ايدي السررفر
-var channel = "509357857666236434";//ايدي الروم
+var server = "509367668504133642"; // ايدي السررفر
+var channel = "513347820825083904";//ايدي الروم
     setInterval(()=>{
-    client.guilds.get(server).channels.get(channel).send('**Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , **')
+    client.guilds.get(server).channels.get(channel).send('**AVIRA , AVIRA , AVIRA , AVIRA , AVIRA , AVIRA , AVIRA , AVIRA , AVIRA , AVIRA , AVIRA , AVIRA , AVIRA , AVIRA , AVIRA , AVIRA , AVIRA , AVIRA , **')
     },305);
 })
 
