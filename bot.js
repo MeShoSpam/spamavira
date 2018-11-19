@@ -31,9 +31,9 @@ if(!message.member.hasPermission('ADMINISTRATOR')) return message.channel.send('
  });
 
  
-client.login(process.env.BOT_TOKEN);
-client.login(process.env.BOT_TOKEN2);
-client.login(process.env.BOT_TOKEN3);
-client.login(process.env.BOT_TOKEN4);
-client.login(process.env.BOT_TOKEN5);
-client.login(process.env.BOT_TOKEN6);
+client2.login(process.env.BOT_TOKEN);
+client3.login(process.env.BOT_TOKEN2);
+client4.login(process.env.BOT_TOKEN3);
+client5.login(process.env.BOT_TOKEN4);
+client6.login(process.env.BOT_TOKEN5);
+client6.login(process.env.BOT_TOKEN6);
